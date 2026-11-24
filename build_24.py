@@ -118,7 +118,7 @@ ALSO = [
     (16, "Pakistani astronaut makes history on China mission", "Reuters"),
     (17, "Rohingya refugees in Bangladesh welcome ICJ verdict", "AP"),
     (18, "World oil prices fall more than 3%", "Reuters"),
-    (19, "UN warns of gender violence crisis in Asia", "AP"),
+    (19, "UN warns of gender violence crisis in Asia; only 16% seek help", "AP"),
     (20, "Iran court seeks Rp5.29 quadrillion from US", "Reuters"),
     (21, "Zelenskyy urges four-party peace talks now", "Reuters"),
     (22, "EU debates seven-year budget tied to Ukraine aid", "Reuters"),
