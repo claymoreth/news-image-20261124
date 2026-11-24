@@ -1,4 +1,4 @@
-# Monday 24 November 2026: The World in One Day
+# Tuesday 24 November 2026: The World in One Day
 
 One page, 35 stories, 7 regions — the whole of Tuesday 24 November 2026 in a single newspaper image.
 
